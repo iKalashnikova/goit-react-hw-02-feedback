@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import {Buttons} from './Btns.styled'
 
 export const FeedbackOptions = ({ options, onLeaveFeedback }) => (

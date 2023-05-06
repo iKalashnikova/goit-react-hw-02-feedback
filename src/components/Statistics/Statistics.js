@@ -1,4 +1,4 @@
-import React, { Component } from 'react';
+import React from 'react';
 import { Feedback, Span } from './Statistics.styled';
 
 export const Statistics = ({total, percentage, good, neutral, bad }) => (
